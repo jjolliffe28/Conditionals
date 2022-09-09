@@ -1,0 +1,15 @@
+/Users/jackjolliffe/Desktop/source/repos/Conditionals/Conditionals/bin/Debug/net6.0/Conditionals
+/Users/jackjolliffe/Desktop/source/repos/Conditionals/Conditionals/bin/Debug/net6.0/Conditionals.deps.json
+/Users/jackjolliffe/Desktop/source/repos/Conditionals/Conditionals/bin/Debug/net6.0/Conditionals.runtimeconfig.json
+/Users/jackjolliffe/Desktop/source/repos/Conditionals/Conditionals/bin/Debug/net6.0/Conditionals.dll
+/Users/jackjolliffe/Desktop/source/repos/Conditionals/Conditionals/bin/Debug/net6.0/Conditionals.pdb
+/Users/jackjolliffe/Desktop/source/repos/Conditionals/Conditionals/obj/Debug/net6.0/Conditionals.csproj.AssemblyReference.cache
+/Users/jackjolliffe/Desktop/source/repos/Conditionals/Conditionals/obj/Debug/net6.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackjolliffe/Desktop/source/repos/Conditionals/Conditionals/obj/Debug/net6.0/Conditionals.AssemblyInfoInputs.cache
+/Users/jackjolliffe/Desktop/source/repos/Conditionals/Conditionals/obj/Debug/net6.0/Conditionals.AssemblyInfo.cs
+/Users/jackjolliffe/Desktop/source/repos/Conditionals/Conditionals/obj/Debug/net6.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/jackjolliffe/Desktop/source/repos/Conditionals/Conditionals/obj/Debug/net6.0/Conditionals.dll
+/Users/jackjolliffe/Desktop/source/repos/Conditionals/Conditionals/obj/Debug/net6.0/refint/Conditionals.dll
+/Users/jackjolliffe/Desktop/source/repos/Conditionals/Conditionals/obj/Debug/net6.0/Conditionals.pdb
+/Users/jackjolliffe/Desktop/source/repos/Conditionals/Conditionals/obj/Debug/net6.0/Conditionals.genruntimeconfig.cache
+/Users/jackjolliffe/Desktop/source/repos/Conditionals/Conditionals/obj/Debug/net6.0/ref/Conditionals.dll
